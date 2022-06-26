@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hey, you find a black hole of my projects as a developera acctually <strong>mobile</strong>.<br>
+  Hey, you find a black hole of my projects as a developer acctually <strong>mobile</strong>.<br>
   acctually i'm working as a mobile developer with react native but worked a lot with front-end development in general with angular and ionic.
 </p>
 
