@@ -1,82 +1,78 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h1 align="center">Guilherme Ytalo</h1>
 
-<p align="left"> 
-  Hey, you find a black hole of my projects as a developer acctually <strong>mobile</strong>.<br>
-  acctually i'm working as a mobile developer with react native but worked a lot with front-end development in general with angular and ionic.
-</p>
+<div align="center">
+    Mobile Developer | 📱
 
-<p align="left">
-  💌 you can contact me for anything on contatoguilhermeytalo@outlook.com: ⤵️
-</p>
+<p> Hey, you find the black hole of my projects as a developer acctually hybrid mobile and swift student.</p>
+</div>
 
-<!-- <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>   -->
-
-
-## 🚀 My Skills
-
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 
 ---
 
-## ⭐ Info's about my account 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermeytalo&show_icons=true)
+<div>
+
+Hey, my name is Guilherme but must called by Lima, fulltime workin as a React native developer, in past year worked with Angular +8 and Ionic and study swift in my free time.
+
+Acctualy my current stack is based on **TypeScript**, **GraphQL**, **React Native**, **RelayJs**, **Jest**.
+
+</div>
+
+---
+
+### My Skills
+
+<div>
+    <a href="https://github.com/guilhermeytalo">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeytalo&hide=html&layout=compact&&show_icons=true&line_height=27&langs_count=10&theme=radical"
+        alt="Linguagens mais usadas">
+    </a>
+</div>
+
+
+---
+<div>
 
 ### Work experience
-Down Below you can see the recent compannies i'm worked(Currently in Maintenance):
+Down Below you can see the recent compannies i'm worked:
+
+
+[<img align="left" height="94px"  width="94px" alt="newhappen" src="https://avatars.githubusercontent.com/u/64034282?s=200&v=4"/>](https://www.cumbuca.com/)
+
+
+**Mobile Developer** \
+[**New Happen - Contract**](https://www.newhappen.com.br/) • Part-time \
+Technologies: `React Native`, `TypeScript`, `Jest`\
+Projects: [Confidential](https://www.newhappen.com.br/)
+
 <br/>
-<img align="left" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+[<img align="left" height="94px"  width="94px" alt="cumbuca" src="https://carreiras.cumbuca.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Ff80f4ec3-1b66-4ec4-9e8a-dee52f82803f%2Fimages%2F5c03ca30-03e0-4306-87fc-c22e6a9710b9.png&w=1920&q=80"/>](https://www.cumbuca.com/)
+
+
+
+**Tech** \
+[**Cumbuca - Current**](https://www.cumbuca.com/) • Full-time \
+Technologies: `React Native`, `RelayJS`, `GraphQL`, `TypeScript`, `Jest`\
+Projects: [Cumbuca](https://www.cumbuca.com/)
+
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="TOTVS" src="https://www.totvs.com/wp-content/uploads/2019/09/ms-icon-144x144.png"/>](https://www.totvs.com/)
+
+**Software Development Analyst I** \
+[**TOTVS**](https://www.totvs.com/) • Full-time \
+Technologies: `Angular`, `Jasmine`, `Karma`, `Ionic`\
+Projects: [Meu Rh](https://www.totvs.com/rh/)
+
 <br/>
-<!-- [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+[<img align="left" height="94px" width="94px" alt="Tunts" src="https://s3.amazonaws.com/gupy5/production/companies/659/career/814/images/2022-07-15_14-55_logo.png"/>](https://tunts.rocks/)
 
 **Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+[**Tunts Rocks**](https://tunts.rocks/) • Full-time \
+Technologies: `Angular+8`, `Material UI` \
+Projects: AoA Aviation
+
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
-
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
-<br/> -->
-
-<!-- <br/>
-<br/>
-<br/>
-You can find more at [LinkedIn](https://www.linkedin.com/in/guilhermeytalo/).
-<br/> -->
+</div>
