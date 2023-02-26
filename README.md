@@ -35,17 +35,6 @@ Acctualy my current stack is based on **TypeScript**, **GraphQL**, **React Nativ
 ### Work experience
 Down Below you can see the recent compannies i'm worked:
 
-
-[<img align="left" height="94px"  width="94px" alt="newhappen" src="https://avatars.githubusercontent.com/u/64034282?s=200&v=4"/>](https://www.cumbuca.com/)
-
-
-**Mobile Developer** \
-[**New Happen - Contract**](https://www.newhappen.com.br/) • Part-time \
-Technologies: `React Native`, `TypeScript`, `Jest`\
-Projects: [Confidential](https://www.newhappen.com.br/)
-
-<br/>
-
 [<img align="left" height="94px"  width="94px" alt="cumbuca" src="https://carreiras.cumbuca.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Ff80f4ec3-1b66-4ec4-9e8a-dee52f82803f%2Fimages%2F5c03ca30-03e0-4306-87fc-c22e6a9710b9.png&w=1920&q=80"/>](https://www.cumbuca.com/)
 
 
@@ -54,6 +43,16 @@ Projects: [Confidential](https://www.newhappen.com.br/)
 [**Cumbuca - Current**](https://www.cumbuca.com/) • Full-time \
 Technologies: `React Native`, `RelayJS`, `GraphQL`, `TypeScript`, `Jest`\
 Projects: [Cumbuca](https://www.cumbuca.com/)
+
+<br/>
+
+[<img align="left" height="94px"  width="94px" alt="newhappen" src="https://avatars.githubusercontent.com/u/64034282?s=200&v=4"/>](https://www.cumbuca.com/)
+
+
+**Mobile Developer** \
+[**New Happen**](https://www.newhappen.com.br/) • Contract \
+Technologies: `React Native`, `TypeScript`, `Jest`\
+Projects: [Confidential](https://www.newhappen.com.br/)
 
 <br/>
 
