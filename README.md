@@ -65,7 +65,7 @@ Projects: [Meu Rh](https://www.totvs.com/rh/)
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Tunts" src="https://s3.amazonaws.com/gupy5/production/companies/659/career/814/images/2022-07-15_14-55_logo.png"/>](https://tunts.rocks/)
+[<img align="left" width="94px" alt="Tunts" src="https://tunts.rocks/_next/static/media/logoTuntsRocksHeader.c8146752.png"/>](https://tunts.rocks/)
 
 **Software Engineer** \
 [**Tunts Rocks**](https://tunts.rocks/) • Full-time \
