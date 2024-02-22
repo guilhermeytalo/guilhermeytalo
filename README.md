@@ -1,7 +1,7 @@
 <h1 align="center">Guilherme Ytalo</h1>
 
 <div align="center">
-    Mobile Developer | 📱
+    Developer | 📱🖥️
 
 <p> Hey, you find the black hole of my projects as a developer acctually hybrid mobile and swift student.</p>
 </div>
@@ -11,9 +11,9 @@
 
 <div>
 
-Hey, my name is Guilherme but must called by Lima, fulltime workin as a React native developer, in past year worked with Angular +8 and Ionic and study swift in my free time.
+Hey, my name is Guilherme but must called by Ytalo/Lima, fulltime workin as a developer, in past year worked with React Native, Angular +8 and Ionic and study swift in my free time.
 
-Acctualy my current stack is based on **TypeScript**, **GraphQL**, **React Native**, **RelayJs**, **Jest**.
+Acctualy my current stack is based on **TypeScript**, **C#**, **.Net**, **VueJs**.
 
 </div>
 
