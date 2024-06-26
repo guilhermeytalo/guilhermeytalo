@@ -35,8 +35,17 @@ Acctualy my current stack is based on **TypeScript**, **C#**, **.Net**, **VueJs*
 ### Work experience
 Down Below you can see the recent compannies i'm worked:
 
-[<img align="left" height="94px" width="94px" alt="cumbuca" src="https://www.cumbuca.com/wp-content/uploads/2022/11/icon-cumbuca.png"/>](https://www.cumbuca.com/)
+[<img align="left" height="94px" width="94px" alt="linx" src="https://www.linx.com.br/app/themes/linx/assets/crystals/static/logo.png"/>](https://www.linx.com.br/)
 
+
+**Jr. Fullstack Developer** \
+[**Linx**](https://www.cumbuca.com/) • Full-time \
+Technologies: `VueJs`, `C#`, `.Net`, `ASP.Net`\
+Projects: [Confidential](https://www.linx.com.br/)
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="cumbuca" src="https://www.cumbuca.com/wp-content/uploads/2022/11/icon-cumbuca.png"/>](https://www.cumbuca.com/)
 
 
 **Tech** \
