@@ -39,7 +39,7 @@ Down Below you can see the recent compannies i'm worked:
 
 
 **Jr. Fullstack Developer** \
-[**Linx**](https://www.cumbuca.com/) • Full-time \
+[**Linx**](https://www.linx.com.br/) • Full-time \
 Technologies: `VueJs`, `C#`, `.Net`, `ASP.Net`\
 Projects: [Confidential](https://www.linx.com.br/)
 
